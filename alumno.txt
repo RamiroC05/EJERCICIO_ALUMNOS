@@ -1,0 +1,5 @@
+Nombre Apellido DNI   TP1 TP2 TP3 TP4 TP5 TP6 
+Ramiro;Corra;44878600;[9, 9, 8, 10, 7, 6];8.166666666666666
+Suyai;Corvalan;44567890;[6, 7, 5, 6, 9, 9];7.0
+Alejandro;Pringles;44532122;[2, 3, 4, 10, 2, 1];3.6666666666666665
+Julian;Galdamez;44332123;[5, 6, 7, 8, 1, 2];4.833333333333333
